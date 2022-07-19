@@ -11,11 +11,11 @@ Please cite our article if you use code or data from this Repository.
 
 Direct requests:
 
-Joshua Gruber, MD, PhD
-Department of Internal Medicine
-Cecil H. and Ida Green Center for Reproductive Biology Sciences
-Simmons Comprehensive Cancer Center
-UT Southwestern Medical Center
+Joshua Gruber, MD, PhD,
+Department of Internal Medicine,
+Cecil H. and Ida Green Center for Reproductive Biology Sciences,
+Simmons Comprehensive Cancer Center,
+UT Southwestern Medical Center,
 email: joshua.gruber@UTsouthwestern.edu
 
 Article Abstract
