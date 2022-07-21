@@ -1,0 +1,97 @@
+﻿ ,Natera.Patient.ID,Primary.Institute.Patient.ID,Hugo.Gene,Mutation,X..Tissue.VAF,X..Plasma.TP1.VAF,Confidence.TP1.variant,X..Plasma.TP2.VAF,Confidence.TP2.variant,Existing.DB.ID..dBSNP.or.COSMIC.,Functional_Annot.SIFT,Functional_Annot.PolyPhen,In.Stanford.HRD.Gene.List,Notes,logdiff
+214,CI001,TBB-B-001,SMIM13,chr6_11134825_C_A,NA,0.009,-,0.3171,HIGH,NA,deleterious_low_confidence(0),probably_damaging(0.95),NA,Tissue WES was not performed as tissue sample unavailable,1.546953733
+100,CI001,TBB-B-001,VNN2,chr6_133065584_G_C,NA,0.009,-,0.0726,HIGH,NA,deleterious(0.01),possibly_damaging(0.813),NA,Tissue WES was not performed as tissue sample unavailable,0.906694111
+184,CI001,TBB-B-001,FAM179B,chr14_45432660_C_G,NA,0.009,-,0.1318,HIGH,NA,deleterious(0.01),possibly_damaging(0.542),NA,Tissue WES was not performed as tissue sample unavailable,1.165672901
+196,CI001,TBB-B-001,LRRN4CL,chr11_62455572_T_C,NA,0.009,-,0.2477,HIGH,NA,deleterious(0.01),possibly_damaging(0.864),NA,Tissue WES was not performed as tissue sample unavailable,1.439683497
+114,CI001,TBB-B-001,F13A1,chr6_6251145_C_T,NA,0.009,-,0.3494,HIGH,COSM1080885,deleterious(0.03),possibly_damaging(0.669),NA,Tissue WES was not performed as tissue sample unavailable,1.589080391
+37,CI001,TBB-B-001,BRINP1,chr9_121971125_C_A,NA,0.009,-,0.2231,HIGH,"rs12378280,COSM1104621,COSM3653688",deleterious(0.04),probably_damaging(0.948),NA,Tissue WES was not performed as tissue sample unavailable,1.394257061
+6,CI001,TBB-B-001,ZFP36L1,chr14_69256906_G_A,NA,0.009,-,0.2574,HIGH,NA,deleterious(0),probably_damaging(0.996),NA,Tissue WES was not performed as tissue sample unavailable,1.456366033
+24,CI001,TBB-B-001,PPP1R9B,chr17_48227420_T_A,NA,0.009,-,0.1866,HIGH,NA,deleterious(0),benign(0.009),NA,Tissue WES was not performed as tissue sample unavailable,1.31666913
+27,CI001,TBB-B-001,CHEK2,chr22_29090061_G_A,NA,0.0147,LOW,0.291,HIGH,NA,deleterious(0),probably_damaging(0.937),CHEK2,Tissue WES was not performed as tissue sample unavailable,1.296575654
+39,CI001,TBB-B-001,TCTN2,chr12_124184346_T_G,NA,0.009,-,0.0822,HIGH,NA,deleterious(0),probably_damaging(0.971),NA,Tissue WES was not performed as tissue sample unavailable,0.960629308
+55,CI001,TBB-B-001,ACACA,chr17_35578729_A_C,NA,0.009,-,0.0886,HIGH,NA,deleterious(0),probably_damaging(0.999),NA,Tissue WES was not performed as tissue sample unavailable,0.993191212
+67,CI001,TBB-B-001,SH3PXD2A,chr10_105377011_T_C,NA,0.009,-,0.1077,HIGH,NA,deleterious(0),possibly_damaging(0.823),NA,Tissue WES was not performed as tissue sample unavailable,1.077973194
+80,CI001,TBB-B-001,STMND1,chr6_17129395_T_G,NA,0.009,-,0.0357,LOW,NA,deleterious(0),probably_damaging(1),NA,Tissue WES was not performed as tissue sample unavailable,0.598425707
+128,CI001,TBB-B-001,JAK1,chr1_65325882_G_A,NA,0.009,LOW,0.3195,HIGH,NA,deleterious(0),probably_damaging(0.999),NA,Tissue WES was not performed as tissue sample unavailable,1.550228353
+131,CI001,TBB-B-001,MSX1,chr4_4864644_G_C,NA,0.009,-,0.152,HIGH,NA,deleterious(0),probably_damaging(0.999),NA,Tissue WES was not performed as tissue sample unavailable,1.227601079
+144,CI001,TBB-B-001,RDH12,chr14_68191920_G_T,NA,0.009,-,0.2868,HIGH,NA,deleterious(0),probably_damaging(1),NA,Tissue WES was not performed as tissue sample unavailable,1.503336638
+152,CI001,TBB-B-001,AGO2,chr8_141569530_C_A,NA,0.009,-,0.0554,HIGH,NA,deleterious(0),probably_damaging(0.987),NA,Tissue WES was not performed as tissue sample unavailable,0.789267255
+165,CI001,TBB-B-001,CYP4F12,chr19_15794546_T_A,NA,0.009,-,0.2691,HIGH,NA,deleterious(0),probably_damaging(0.956),NA,Tissue WES was not performed as tissue sample unavailable,1.475671188
+171,CI001,TBB-B-001,COQ6,chr14_74426133_A_C,NA,0.009,-,0.201,HIGH,NA,deleterious(0),probably_damaging(1),NA,Tissue WES was not performed as tissue sample unavailable,1.348953548
+172,CI001,TBB-B-001,MAN2A1,chr5_109200762_C_G,NA,0.009,-,0.0736,HIGH,NA,deleterious(0),probably_damaging(0.999),NA,Tissue WES was not performed as tissue sample unavailable,0.912635305
+182,CI001,TBB-B-001,INF2,chr14_105168029_G_A,NA,0.009,-,0.2603,HIGH,NA,deleterious(0),probably_damaging(0.965),NA,Tissue WES was not performed as tissue sample unavailable,1.461231659
+209,CI001,TBB-B-001,ZHX2,chr8_123965471_A_G,NA,0.009,LOW,0.0884,HIGH,COSM3995843,deleterious(0),possibly_damaging(0.799),NA,Tissue WES was not performed as tissue sample unavailable,0.992209756
+304,CI002,TBB-B-002,CCDC159,chr19_11460667_G_A,ND,0.009,-,0.034,LOW,NA,deleterious(0.01),probably_damaging(0.98),NA,,0.577236408
+611,CI002,TBB-B-002,SLC18A3,chr10_50818871_C_T,ND,0.009,-,0.0725,HIGH,NA,deleterious(0.01),possibly_damaging(0.676),NA,,0.906095497
+755,CI002,TBB-B-002,TNFSF4,chr1_173176294_C_T,ND,0.009,-,0.0381,HIGH,NA,deleterious(0.03),benign(0.156),NA,,0.626682466
+1342,CI002,TBB-B-002,SCN2A,chr2_166245243_G_A,ND,0.0145,LOW,0.0764,HIGH,NA,deleterious(0.03),probably_damaging(0.959),NA,,0.721725356
+1498,CI002,TBB-B-002,OR9G4,chr11_56510422_G_T,ND,0.009,-,0.0847,HIGH,COSM3953409,deleterious(0.03),probably_damaging(0.979),NA,,0.973640901
+651,CI002,TBB-B-002,TRPM7,chr15_50867244_A_C,ND,0.009,-,0.0313,LOW,NA,deleterious(0),probably_damaging(0.996),NA,,0.541301828
+724,CI002,TBB-B-002,WWC3,chrX_10102572_G_T,ND,0.009,-,0.0288,HIGH,NA,deleterious(0),probably_damaging(0.999),NA,,0.505149978
+1269,CI002,TBB-B-002,PCDH11X,chrX_91134112_C_G,ND,0.009,-,0.0298,HIGH,"rs755654846,COSM1126412,COSM1126413,COSM1599811",deleterious(0),probably_damaging(0.973),NA,,0.519973755
+1471,CI002,TBB-B-002,OGDH,chr7_44714135_T_G,ND,0.009,-,0.036,HIGH,NA,deleterious(0),probably_damaging(0.962),NA,,0.602059991
+1854,CI002,TBB-B-002,MYD88,chr3_38182316_A_C,ND,0.009,-,0.085,HIGH,NA,deleterious(0),probably_damaging(0.993),NA,,0.975176416
+1872,CI002,TBB-B-002,CTSC,chr11_88027502_C_T,ND,0.009,-,0.0338,HIGH,NA,deleterious(0),probably_damaging(0.999),NA,,0.574674191
+2820,CI008,TBB-B-008,CDK5R2,chr2_219825612_G_T,ND,0.009,-,0.0419,HIGH,NA,deleterious_low_confidence(0),benign(0.181),NA,,0.667971514
+2873,CI008,TBB-B-008,ADPRHL1,chr13_114098878_G_A,ND,0.009,-,0.0429,HIGH,COSM5842216,deleterious(0.01),probably_damaging(1),NA,,0.678214783
+2831,CI008,TBB-B-008,TNK2,chr3_195605925_T_C,ND,0.0114,LOW,0.0374,HIGH,NA,deleterious(0.02),possibly_damaging(0.478),NA,,0.515966751
+2874,CI008,TBB-B-008,NF1,chr17_29667580_G_A,ND,0.009,-,0.0459,HIGH,NA,deleterious(0.03),probably_damaging(0.952),NA,,0.707570176
+2804,CI008,TBB-B-008,CELSR1,chr22_46790053_G_T,ND,0.009,-,0.0327,HIGH,NA,deleterious(0.04),benign(0.146),NA,,0.560305243
+2876,CI008,TBB-B-008,LIPH,chr3_185229384_C_G,ND,0.009,-,0.0369,HIGH,NA,deleterious(0.04),possibly_damaging(0.78),NA,,0.612783857
+2742,CI008,TBB-B-008,SPDEF,chr6_34506134_T_C,ND,0.009,-,0.0412,HIGH,NA,deleterious(0),possibly_damaging(0.842),NA,,0.660654707
+2803,CI008,TBB-B-008,SGMS2,chr4_108831599_C_A,ND,0.009,-,0.0541,HIGH,NA,deleterious(0),probably_damaging(0.999),NA,,0.778954756
+2814,CI008,TBB-B-008,SH3D19,chr4_152096381_C_A,ND,0.009,-,0.0469,HIGH,NA,deleterious(0),benign(0.244),NA,,0.716930333
+2841,CI008,TBB-B-008,STEAP2,chr7_89856700_A_C,ND,0.009,-,0.0372,LOW,NA,deleterious(0),probably_damaging(1),NA,,0.61630043
+2898,CI009,TBB-B-009,TENM3,chr4_183713829_A_T,NA,0.009,-,0.0496,HIGH,COSM3337988,deleterious(0),possibly_damaging(0.869),NA,Tissue WES was not performed as tissue sample unavailable,0.741239167
+2932,CI009,TBB-B-009,LIG4,chr13_108863591_G_A,NA,0.009,-,0.0826,HIGH,NA,deleterious(0),benign(0.055),NA,Tissue WES was not performed as tissue sample unavailable,0.962737538
+3300,CI012,TBB-B-012,PXDNL,chr8_52322069_A_T,8.65%,0.009,-,0.0316,HIGH,NA,deleterious(0.01),benign(0.309),NA,,0.545444573
+3317,CI012,TBB-B-012,ABCA12,chr2_215851315_G_A,ND,0.0372,LOW,0.1575,HIGH,NA,deleterious(0),benign(0.285),NA,,0.626737618
+3488,CI014,TBB-B-014,NME4,chr16_449007_C_T,ND,0.009,-,0.0288,HIGH,NA,deleterious(0.02),possibly_damaging(0.451),NA,,0.505149978
+3508,CI014,TBB-B-014,PCDH15,chr10_55973701_T_A,21.18%,0.009,-,0.0611,LOW,NA,deleterious(0),probably_damaging(0.993),NA,,0.831798701
+3622,CI015,TBB-B-015,POF1B,chrX_84634422_C_G,27.74%,0.009,-,0.1398,HIGH,NA,deleterious_low_confidence(0),unknown(0),NA,,1.191264662
+3585,CI015,TBB-B-015,COL14A1,chr8_121301938_C_T,32.21%,0.009,-,0.1077,HIGH,"rs753420654,COSM3165737",deleterious(0),probably_damaging(0.915),NA,,1.077973194
+3625,CI015,TBB-B-015,ST8SIA1,chr12_22408250_C_T,27.10%,0.009,-,0.1075,HIGH,NA,deleterious(0),probably_damaging(0.985),NA,,1.077165955
+3636,CI015,TBB-B-015,CXorf22,chrX_35974261_C_A,26.11%,0.009,-,0.127,LOW,NA,deleterious(0),probably_damaging(1),NA,,1.149561212
+4319,CI017,TBB-B-018,HIST1H2BG,chr6_26216733_T_G,27.33%,0.009,-,0.5277,HIGH,NA,deleterious_low_confidence(0.01),possibly_damaging(0.859),NA,,1.768144585
+4215,CI017,TBB-B-018,MAGEC1,chrX_140995124_C_A,28.83%,0.009,-,0.4932,HIGH,NA,deleterious_low_confidence(0),possibly_damaging(0.893),NA,,1.738780558
+4257,CI017,TBB-B-018,ZNF768,chr16_30535923_T_C,39.71%,0.009,-,0.3476,HIGH,NA,deleterious_low_confidence(0),probably_damaging(0.999),NA,,1.586837258
+4193,CI017,TBB-B-018,ROCK1,chr18_18533608_G_A,16.89%,0.009,-,0.0909,HIGH,NA,deleterious(0.01),benign(0.097),NA,,1.004321374
+4214,CI017,TBB-B-018,PANX3,chr11_124487338_C_T,31.25%,0.009,-,0.4081,HIGH,"rs149324907,COSM3383285",deleterious(0.01),possibly_damaging(0.787),NA,,1.656524085
+4306,CI017,TBB-B-018,IGFBP1,chr7_45931561_G_A,20.42%,0.009,-,0.1828,HIGH,"rs146202574,COSM3765352",deleterious(0.01),benign(0.108),NA,,1.307733682
+4157,CI017,TBB-B-018,WDR49,chr3_167319988_C_T,22.75%,0.009,-,0.1094,HIGH,NA,deleterious(0.02),possibly_damaging(0.901),NA,,1.084774813
+4198,CI017,TBB-B-018,KRTAP12-4,chr21_46074527_C_G,16.83%,0.009,LOW,0.2232,HIGH,NA,deleterious(0.02),possibly_damaging(0.765),NA,,1.394451681
+4175,CI017,TBB-B-018,AP3B2,chr15_83335669_T_C,ND,0.009,-,0.0363,HIGH,NA,deleterious(0.03),benign(0.115),NA,,0.605664116
+4183,CI017,TBB-B-018,SH3GL3,chr15_84116326_G_T,14.63%,0.009,-,0.2613,HIGH,NA,deleterious(0.03),benign(0.012),NA,,1.4628969
+4186,CI017,TBB-B-018,NFE2L2,chr2_178097997_G_A,15.47%,0.009,-,0.12,HIGH,NA,deleterious(0.03),benign(0.051),NA,,1.124938737
+4230,CI017,TBB-B-018,GAS6,chr13_114542707_C_T,18.61%,0.009,-,0.2268,HIGH,NA,deleterious(0.03),benign(0.006),NA,,1.401400541
+4251,CI017,TBB-B-018,MSANTD4,chr11_105880647_C_T,24.93%,0.009,-,0.3739,HIGH,NA,deleterious(0.03),probably_damaging(0.971),NA,,1.618512956
+4264,CI017,TBB-B-018,BAG6,chr6_31617094_G_A,33.44%,0.009,-,0.4944,HIGH,NA,deleterious(0.03),probably_damaging(0.971),NA,,1.739835953
+4280,CI017,TBB-B-018,CALD1,chr7_134613647_A_G,17.22%,0.009,-,0.219,HIGH,NA,deleterious(0.03),unknown(0),NA,,1.386201605
+4165,CI017,TBB-B-018,DNAH3,chr16_20999312_G_A,25.76%,0.009,-,0.1617,HIGH,"COSM968266,COSM968267",deleterious(0.04),possibly_damaging(0.612),NA,,1.25446751
+4229,CI017,TBB-B-018,USP19,chr3_49151444_T_C,14.15%,0.009,-,0.2256,HIGH,NA,deleterious(0.04),benign(0.093),NA,,1.399096586
+4205,CI017,TBB-B-018,TAS2R4,chr7_141478968_G_T,18.59%,0.009,-,0.1648,HIGH,NA,deleterious(0),probably_damaging(0.938),NA,,1.262714698
+4206,CI017,TBB-B-018,WDR24,chr16_737638_G_A,7.72%,0.009,-,0.0948,HIGH,NA,deleterious(0),probably_damaging(0.998),NA,,1.022565828
+4211,CI017,TBB-B-018,AICDA,chr12_8758009_G_A,19.64%,0.009,-,0.2907,HIGH,NA,deleterious(0),probably_damaging(0.976),NA,,1.509202522
+4224,CI017,TBB-B-018,OR51Q1,chr11_5443552_T_G,27.86%,0.009,-,0.3612,HIGH,NA,deleterious(0),possibly_damaging(0.623),NA,,1.603505232
+4242,CI017,TBB-B-018,VWF,chr12_6091115_C_A,20.54%,0.009,-,0.1804,HIGH,NA,deleterious(0),possibly_damaging(0.831),NA,,1.301994024
+4256,CI017,TBB-B-018,KCNA3,chr1_111217049_G_A,24.86%,0.009,-,0.256,HIGH,COSM1332628,deleterious(0),probably_damaging(1),NA,,1.453997456
+4268,CI017,TBB-B-018,SATL1,chrX_84362931_T_G,43.71%,0.0153,LOW,0.5091,HIGH,NA,deleterious(0),probably_damaging(0.989),NA,,1.522111666
+4277,CI017,TBB-B-018,FAM110B,chr8_59059799_G_A,19.35%,0.0121,LOW,0.2035,HIGH,COSM1206020,deleterious(0),probably_damaging(0.993),NA,,1.225779043
+4343,CI017,TBB-B-018,SCN11A,chr3_38924806_C_T,23.35%,0.009,-,0.1921,HIGH,"rs147061364,COSM3593700",deleterious(0),probably_damaging(1),NA,,1.329284855
+4869,CI019,TBB-B-020,SERINC4,chr15_44092138_A_G,7.38%,0.009,-,0.1044,HIGH,NA,deleterious_low_confidence(0.02),possibly_damaging(0.558),NA,,1.064457989
+4872,CI019,TBB-B-020,TUBA3C,chr13_19751273_C_T,9.65%,0.0118,LOW,0.1036,HIGH,"rs146654670,COSM107526",deleterious_low_confidence(0),probably_damaging(0.926),NA,,0.943477748
+4806,CI019,TBB-B-020,BDKRB1,chr14_96730060_A_G,5.41%,0.009,-,0.1047,HIGH,NA,deleterious(0.01),possibly_damaging(0.849),NA,,1.065704172
+4844,CI019,TBB-B-020,FAM193B,chr5_176951950_T_A,7.03%,0.0126,LOW,0.1343,HIGH,NA,deleterious(0.01),possibly_damaging(0.624),NA,,1.027705468
+4816,CI019,TBB-B-020,TMEM132C,chr12_129190010_C_T,8.62%,0.0104,LOW,0.0623,HIGH,"rs574571083,COSM4146814,COSM4146815",deleterious(0.02),possibly_damaging(0.663),NA,,0.777454707
+4798,CI019,TBB-B-020,PCSK7,chr11_117095440_C_T,8.19%,0.009,-,0.1076,HIGH,NA,deleterious(0),probably_damaging(0.969),NA,,1.077569762
+4799,CI019,TBB-B-020,EPRS,chr1_220195755_C_T,7.10%,0.009,-,0.0438,HIGH,NA,deleterious(0),probably_damaging(0.976),NA,,0.687231601
+4800,CI019,TBB-B-020,SLC40A1,chr2_190428774_C_T,6.70%,0.0134,LOW,0.0901,HIGH,COSM3990922,deleterious(0),possibly_damaging(0.846),NA,,0.827619993
+4827,CI019,TBB-B-020,MALRD1,chr10_19636726_G_A,6.64%,0.009,-,0.0913,HIGH,NA,deleterious(0),probably_damaging(0.999),NA,,1.006228268
+4835,CI019,TBB-B-020,NYAP2,chr2_226447152_C_A,8.88%,0.0108,LOW,0.1231,HIGH,COSM225166,deleterious(0),probably_damaging(0.999),NA,,1.056834297
+4857,CI019,TBB-B-020,BRWD1,chr21_40590195_A_G,ND,0.009,-,0.1088,HIGH,NA,deleterious(0),probably_damaging(0.994),NA,,1.082386386
+4861,CI019,TBB-B-020,GRIN2C,chr17_72845954_C_T,8.70%,0.013,LOW,0.0909,HIGH,NA,deleterious(0),probably_damaging(0.999),NA,,0.844620531
+4863,CI019,TBB-B-020,GALE,chr1_24123396_C_A,7.27%,0.009,LOW,0.0695,HIGH,NA,deleterious(0),probably_damaging(1),NA,,0.887742295
+4864,CI019,TBB-B-020,DHH,chr12_49483694_A_T,13.33%,0.009,LOW,0.1061,HIGH,NA,deleterious(0),possibly_damaging(0.495),NA,,1.071472874
+4875,CI019,TBB-B-020,KRAS,chr12_25398284_C_T,6.88%,0.009,-,0.0841,HIGH,"rs121913529,CM087372,COSM1135366,COSM1140133,COSM1140134,COSM12657,COSM49168,COSM520,COSM521,COSM522",deleterious(0),benign(0.361),NA,,0.970553486
+4881,CI019,TBB-B-020,TTC39B,chr9_15189604_G_C,9.88%,0.009,-,0.0667,HIGH,NA,deleterious(0),probably_damaging(1),NA,,0.869883324
+4892,CI019,TBB-B-020,ATP8B4,chr15_50190330_T_G,5.84%,0.009,-,0.0742,HIGH,NA,deleterious(0),possibly_damaging(0.845),NA,,0.916161396
