@@ -1,0 +1,20 @@
+﻿Natera Patient ID,Primary Institute Patient ID,subject_ID,best_change_SLD,best_response,genetics,mut_found in_Tissue,mut_found in_Plasma TP1,of_mut_found in_Plasma TP2,overlapping_mut_between tissue and Plasma TP1 ,overlapping_mut_between tissue and Plasma TP2 ,overlapping_mut_between Plasma TP1 and TP2 ,"overlapping_mut_between tissue, Plasma TP1 and TP2 ",Notes
+CI001,TBB-B-001,1,0,SD,gBRIP1,NA,121,111,NA,NA,12,NA,Tissue WES was not performed as tissue sample unavailable
+CI002,TBB-B-002,2,18.5,SD,sPTEN,1598,67,104,12,14,45,11,0
+CI003,TBB-B-003,3,-40.3,PR,gPALB2,145,38,164,22,79,25,20,0
+CI005,TBB-B-005,5,0,SD,sPTEN,63,11,13,0,0,0,0,0
+CI006,TBB-B-006,6,-23.4,SD,gPALB2,NA,117,98,NA,NA,69,NA,Tissue WES was not performed as tissue sample unavailable
+CI007,TBB-B-007,7,-35.3,PR,"gCHEK2, gFANCA, sPTEN",238,14,182,0,117,3,0,0
+CI008,TBB-B-008,8,-6.8,PD,"gPALB2, gBRIP1",6,114,103,3,3,57,3,0
+CI009,TBB-B-009,9,-1.6,SD,gCHEK2,NA,29,25,NA,NA,2,NA,Tissue WES was not performed as tissue sample unavailable
+CI010,TBB-B-010,10,0,PD,gCHEK2,61,203,NA,25,NA,NA,NA,Single Plasma Sample
+CI011,TBB-B-011,11,0,SD,sATR,NA,35,28,NA,NA,2,NA,Tissue WES was not performed as tissue sample unavailable
+CI012,TBB-B-012,12,29.1,PD,sPTEN,76,16,29,6,7,11,5,0
+CI013,TBB-B-013,13,46.2,PD,gATM,34,8,8,0,0,0,0,0
+CI014,TBB-B-014,14,-11.7,SD,sPTEN,96,129,115,49,50,94,47,0
+CI015,TBB-B-015,15,20.5,PD,sRAD50,49,26,40,18,25,20,18,0
+CI016,TBB-B-016,16,-100,PR,gPALB2,372,264,283,200,183,218,176,0
+CI017,TBB-B-018,18,15,SD,gATM,131,13,152,9,79,10,9,0
+CI018,TBB-B-019,19,-23.5,SD,gPALB2,364,187,238,149,169,167,142,0
+CI019,TBB-B-020,20,25,PD,gATM,77,20,74,13,54,15,13,0
+CI020,TBB-B-022,22,-54,PR,gPALB2,154,81,4,57,1,1,1,0
