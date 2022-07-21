@@ -30,3 +30,11 @@ Clinical Sequencing data for this study is housed at dbGAP:
 https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002803.v1.p1
 
 
+Understanding the R scripts
+
+There are 4 R scripts deposited, which each contain separate analyses used to generate conclusions and figures presented in the manuscript. Each script requires separate data input files.  These data input files are available for download in the repository. To follow the general flow of the paper the scripts should be run in the following order: 1) TBB_clinical_analysis.R, 2) Fig2.R, 3) TBB_myriad.R, 4) TBB_natera_ctDNA_github.R
+
+
+
+
+
