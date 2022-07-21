@@ -15,7 +15,7 @@ Joshua Gruber, MD, PhD,
 Department of Internal Medicine,
 Cecil H. and Ida Green Center for Reproductive Biology Sciences,
 Simmons Comprehensive Cancer Center,
-UT Southwestern Medical Center,
+UT Southwestern Medical Center
 
 email: joshua.gruber@UTsouthwestern.edu
 
