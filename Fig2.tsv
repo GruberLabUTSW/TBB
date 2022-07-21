@@ -1,0 +1,25 @@
+Patient	genetics	type	location	HRD.score
+CI002	sPTEN	breast	Primary	32
+CI006	gPALB2	breast	Primary	51
+CI010	gCHEK2	breast	Primary	18
+CI013	gATM	pancreas	Primary	15
+CI014	sPTEN	uterine	Primary	3
+CI016	gPALB2	breast	Primary	61
+CI017	gATM	colon	Primary	26
+CI018	gPALB2	breast	Primary	57
+CI019	gATM	pancreas	Primary	18
+CI020	gPALB2	breast	Primary	54
+CI002	sPTEN	breast	Metastasis	40
+CI003	gPALB2	breast	Metastasis	41
+CI005	sPTEN	breast	Metastasis	5
+CI006	gPALB2	breast	Metastasis	71
+CI007	gCHEK2, gFANCA, sPTEN	breast	Metastasis	24
+CI010	gCHEK2	breast	Metastasis	36
+CI011	sATR	breast	Metastasis	26
+CI012	sPTEN	breast	Metastasis	24
+CI014	sPTEN	uterine	Metastasis	9
+CI015	sRAD50	parotid	Metastasis	12
+CI017	gATM	colon	Metastasis	23
+CI018	gPALB2	breast	Metastasis	62
+CI019	gATM	pancreas	Metastasis	25
+CI020	gPALB2	breast	Metastasis	67
